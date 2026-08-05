@@ -3,14 +3,14 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Leslie+Redlich;Desarrolladora+Full+Stack;JavaScript+%7C+Node.js+%7C+PostgreSQL+%7C+Laravel" alt="Leslie Redlich - Desarrolladora Full Stack" />
 
 <p>
+  <a href="https://leslieredlich.github.io">
+    <img src="https://img.shields.io/badge/Portafolio-leslieredlich.github.io-6E2C57?style=for-the-badge&logoColor=white" alt="Portafolio" />
+  </a>
   <a href="https://www.linkedin.com/in/leslieredlich/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:leslieredlich@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://github.com/leslieredlich">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 
@@ -206,6 +206,10 @@ Si te interesa mi trabajo o quieres conversar sobre una idea, escríbeme — res
 &nbsp;
 <a href="mailto:leslieredlich@gmail.com">
   <img src="https://img.shields.io/badge/Email-Escríbeme-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+&nbsp;
+<a href="https://leslieredlich.github.io">
+  <img src="https://img.shields.io/badge/Portafolio-Visitar-6E2C57?style=for-the-badge&logoColor=white" alt="Portafolio" />
 </a>
 &nbsp;
 <a href="https://github.com/leslieredlich?tab=repositories">
