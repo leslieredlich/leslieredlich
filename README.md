@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=6E2C57&center=true&vCenter=true&width=640&lines=Leslie+Redlich;Ingeniera+de+Ejecuci%C3%B3n+en+Inform%C3%A1tica;Desarrolladora+Backend+%7C+Full+Stack;PHP+%7C+Laravel+%7C+Node.js+%7C+PostgreSQL" alt="Leslie Redlich - Ingeniera de Ejecución en Informática, Desarrolladora Full Stack" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=6E2C57&center=true&vCenter=true&width=640&lines=Leslie+Redlich;Ingeniera+de+Ejecuci%C3%B3n+en+Inform%C3%A1tica;Full+Stack+con+foco+en+backend;PHP+%7C+Laravel+%7C+Node.js+%7C+PostgreSQL" alt="Leslie Redlich - Ingeniera de Ejecución en Informática, Desarrolladora Full Stack" />
 
 <p>
   <a href="https://leslieredlich.github.io">
@@ -20,22 +20,18 @@
 
 ## Sobre mí
 
-**Ingeniera de Ejecución en Informática** con **10 años y 8 meses** desarrollando backend, la mayor parte en equipos remotos y sobre PHP. He trabajado en sistemas internos, mesas de ayuda y plataformas de gestión: software que alguien abre todos los días para hacer su trabajo, no demos.
+**Ingeniera de Ejecución en Informática** con una sólida trayectoria desarrollando software, principalmente en equipos remotos. He diseñado y desplegado sistemas internos, mesas de ayuda y plataformas de gestión a medida.
 
-Hoy participo en el desarrollo de una **plataforma SaaS multi-tenant** para talleres mecánicos —órdenes de trabajo, inventario, permisos y pagos— y estoy cursando un **Bootcamp Full Stack JavaScript** que finaliza el 17 de agosto de 2026, con el que sumo Node, Express y PostgreSQL a mi stack.
+Aunque tengo experiencia en todo el ciclo de desarrollo, mi especialidad está en el **backend**: modelar datos, estructurar APIs sólidas y dejar toda la arquitectura bien conectada.
 
-No llego a la arquitectura desde la teoría, sino desde haber tenido que resolverla:
-multi-tenancy, pasarelas de pago, control de inventario y sistemas de roles y permisos.
-
-- Me interesa **la parte que no se ve**: cómo se modelan los datos, qué pasa cuando una operación falla a medias y cómo se define quién puede hacer qué.
-- Construyo **producto**, no solo encargos: mi proyecto principal es un SaaS de gestión para talleres mecánicos.
-- Trabajo con foco en el **negocio**: conversión, leads, reportes y métricas.
+Mi base principal ha sido el **ecosistema PHP**, tecnología que sigo aplicando en proyectos complejos como plataformas multi-tenant. Además, sigo expandiendo mis habilidades hacia el entorno **JavaScript Full Stack**, con Node.js y PostgreSQL.
 
 | | |
 |---|---|
 | **Título** | Ingeniera de Ejecución en Informática — AIEP, 2013, con distinción |
-| **Experiencia** | 10 años 8 meses en desarrollo backend |
-| **Cursando** | Bootcamp Full Stack JS · hasta el 17 de agosto de 2026 |
+| **Experiencia** | Más de una década desarrollando software |
+| **Especialidad** | Backend · arquitectura de datos · APIs |
+| **Formación** | Bootcamp Full Stack JavaScript |
 | **Ubicación** | Chile · remoto o híbrido |
 
 ---
