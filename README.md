@@ -76,8 +76,13 @@ Esa combinación es lo que me define: no llego a la arquitectura desde la teorí
 
 > Plataforma **multi-tenant** que administra la operación completa de un taller mecánico: órdenes de trabajo, inventario, cotizaciones, clientes y facturación. Cada taller opera sobre su propia base de datos aislada.
 
-<!-- REEMPLAZAR: captura del dashboard -> docs/promecanica.png -->
-<img src="docs/promecanica.png" alt="Promecánica - Dashboard" width="100%" />
+<div align="center">
+  <a href="docs/promecanica.png">
+    <img src="docs/promecanica.png" alt="Promecánica - Panel de gestión" width="760" />
+  </a>
+  <br />
+  <sub><i>Panel de gestión: métricas mensuales, órdenes de trabajo por estado y alertas operativas</i></sub>
+</div>
 
 **Lo que resuelve**
 
@@ -92,7 +97,7 @@ Esa combinación es lo que me define: no llego a la arquitectura desde la teorí
 **Stack:** Laravel 11 · PHP 8.2 · Inertia.js · Sanctum · Spatie Permissions · Tailwind · Docker · MySQL
 
 <!-- REEMPLAZAR: URL de la demo en vivo -->
-[**Ver demo**](#) · Código privado — disponible bajo solicitud
+<!-- [**Ver demo**](#)--> · Código privado — disponible bajo solicitud 
 
 ---
 
@@ -100,8 +105,13 @@ Esa combinación es lo que me define: no llego a la arquitectura desde la teorí
 
 > Sistema integral para automatizar los procesos de una corredora de propiedades: publicación, captación de leads y seguimiento comercial, con panel administrativo y roles diferenciados.
 
-<!-- REEMPLAZAR: captura -> docs/gestion-inmobiliaria.png -->
-<img src="docs/gestion-inmobiliaria.png" alt="Sistema de Gestión Inmobiliaria" width="100%" />
+<!-- PENDIENTE: guarda la captura en docs/gestion-inmobiliaria.png y descomenta el bloque de abajo -->
+<div align="center">
+  <a href="docs/gestion-inmobiliaria.png">
+    <img src="docs/gestion-inmobiliaria.png" alt="Sistema de Gestión Inmobiliaria" width="760" />
+  </a>
+</div>
+
 
 **Funcionalidades clave**
 - CRUD completo de propiedades con carga de imágenes y estados (activa / vendida / inactiva)
@@ -112,7 +122,8 @@ Esa combinación es lo que me define: no llego a la arquitectura desde la teorí
 **Stack:** Laravel 9 · PHP 8 · Blade · Bootstrap 5 · MySQL
 
 <!-- REEMPLAZAR: URL de la demo en vivo -->
-[**Ver demo**](#) · [**Ver código**](https://github.com/leslieredlich/gestion_inmobiliaria)
+<!-- [**Ver demo**](#)--> 
+[**Ver código**](https://github.com/leslieredlich/gestion_inmobiliaria) 
 
 ---
 
@@ -120,8 +131,13 @@ Esa combinación es lo que me define: no llego a la arquitectura desde la teorí
 
 > Tema WordPress desarrollado desde cero para corredoras de propiedades, optimizado para el mercado de la **Cuarta Región de Chile**. No es una plantilla adaptada: los Custom Post Types y el buscador están diseñados para el rubro.
 
-<!-- REEMPLAZAR: captura -> docs/propiedades.png -->
-<img src="docs/propiedades.png" alt="Tema WordPress Propiedades" width="100%" />
+<!-- PENDIENTE: guarda la captura en docs/propiedades.png y descomenta el bloque de abajo -->
+<div align="center">
+  <a href="docs/propiedades.png">
+    <img src="docs/propiedades.png" alt="Tema WordPress Propiedades" width="760" />
+  </a>
+</div>
+
 
 **Funcionalidades clave**
 - Custom Post Types para gestión de propiedades
@@ -133,7 +149,7 @@ Esa combinación es lo que me define: no llego a la arquitectura desde la teorí
 **Stack:** WordPress · PHP · JavaScript · CSS3
 
 <!-- REEMPLAZAR: URL de la demo en vivo -->
-[**Ver demo**](#) · [**Ver código**](https://github.com/leslieredlich/propiedades)
+<!-- [**Ver demo**](#)--> · [**Ver código**](https://github.com/leslieredlich/propiedades)
 
 ---
 
@@ -141,8 +157,13 @@ Esa combinación es lo que me define: no llego a la arquitectura desde la teorí
 
 > Proyecto donde más se nota el trabajo de backend puro: paginación con **cursores de PostgreSQL** y escritura **transaccional** con COMMIT/ROLLBACK sobre tres tablas relacionadas.
 
-<!-- REEMPLAZAR: captura -> docs/api-paises.png -->
-<img src="docs/api-paises.png" alt="API de Países" width="100%" />
+<!-- PENDIENTE: guarda la captura en docs/api-paises.png y descomenta el bloque de abajo
+<div align="center">
+  <a href="docs/api-paises.png">
+    <img src="docs/api-paises.png" alt="API de Países" width="760" />
+  </a>
+</div>
+-->
 
 **Lo técnicamente interesante**
 - Lectura por bloques usando `pg-cursor`, avanzando página a página desde el frontend en lugar de cargar todo en memoria
@@ -152,7 +173,7 @@ Esa combinación es lo que me define: no llego a la arquitectura desde la teorí
 **Stack:** Node.js · Express · PostgreSQL · pg / pg-cursor · JavaScript
 
 <!-- REEMPLAZAR: URL de la demo en vivo -->
-[**Ver demo**](#) · [**Ver código**](https://github.com/leslieredlich/evaluacion-final-modulo-7)
+<!-- [**Ver demo**](#)--> · [**Ver código**](https://github.com/leslieredlich/evaluacion-final-modulo-7)
 
 ---
 
@@ -160,40 +181,52 @@ Esa combinación es lo que me define: no llego a la arquitectura desde la teorí
 
 | Proyecto | Descripción | Stack | Enlaces |
 |---|---|---|---|
-| **DevKreativo** | Sitio corporativo de agencia de desarrollo web y marketing digital, con componentes modulares reutilizables e integración de Google Maps | Next.js 15 · React 19 · TypeScript · Tailwind | [Código](https://github.com/leslieredlich/devstudio) · <!-- REEMPLAZAR demo -->[Demo](#) |
-| **Registro de Mascotas** | API REST con arquitectura por capas para registrar, buscar y eliminar mascotas por nombre o RUT, con validación de datos y persistencia en JSON | Node.js · Express · JavaScript | [Código](https://github.com/leslieredlich/Registro-Mascotas) · <!-- REEMPLAZAR demo -->[Demo](#) |
-| **Belleza** | E-commerce para la venta de productos de belleza | TypeScript · React | [Código](https://github.com/leslieredlich/belleza) · <!-- REEMPLAZAR demo -->[Demo](#) |
-| **A&R Plus** | Sitio corporativo para taller mecánico: galería de trabajos, formulario de contacto e integración con WhatsApp | Next.js 15 · TypeScript · Tailwind | <!-- REEMPLAZAR demo -->[Demo](#) |
-| **Blog ProMecánica** | Blog corporativo con tema propio, newsletter vía Mailchimp y SEO con schema.org | WordPress · PHP | <!-- REEMPLAZAR demo -->[Demo](#) |
+| **DevKreativo** | Sitio corporativo de agencia de desarrollo web y marketing digital, con componentes modulares reutilizables e integración de Google Maps | Next.js 15 · React 19 · TypeScript · Tailwind | [Código](https://github.com/leslieredlich/devstudio) |
+| **Registro de Mascotas** | API REST con arquitectura por capas para registrar, buscar y eliminar mascotas por nombre o RUT, con validación de datos y persistencia en JSON | Node.js · Express · JavaScript | [Código](https://github.com/leslieredlich/Registro-Mascotas) |
+| **Belleza** | E-commerce para la venta de productos de belleza | TypeScript · React | [Código](https://github.com/leslieredlich/belleza) |
+| **A&R Plus** | Sitio corporativo para taller mecánico: galería de trabajos, formulario de contacto e integración con WhatsApp | Next.js 15 · TypeScript · Tailwind |
+| **Blog ProMecánica** | Blog corporativo con tema propio, newsletter vía Mailchimp y SEO con schema.org | WordPress · PHP |
 
 ---
 
-## GitHub
+## Contáctame
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=leslieredlich&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Estadísticas de GitHub" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leslieredlich&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Lenguajes más usados" />
+**¿Trabajamos juntos?**
 
-</div>
+Estoy abierta a oportunidades como desarrolladora Full Stack y a colaborar en proyectos.<br />
+Si te interesa mi trabajo o quieres conversar sobre una idea, escríbeme — respondo siempre.
 
----
-
-## Contacto
-
-Estoy abierta a oportunidades como **Desarrolladora Full Stack** y a proyectos freelance.
-
-<div align="center">
+<br />
 
 <a href="https://www.linkedin.com/in/leslieredlich/">
   <img src="https://img.shields.io/badge/LinkedIn-Conectemos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
+&nbsp;
 <a href="mailto:leslieredlich@gmail.com">
-  <img src="https://img.shields.io/badge/Email-leslieredlich@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <img src="https://img.shields.io/badge/Email-Escríbeme-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+&nbsp;
+<a href="https://github.com/leslieredlich?tab=repositories">
+  <img src="https://img.shields.io/badge/Repositorios-Ver_todos-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositorios" />
 </a>
 
-</div>
+<!-- OPCIONAL: sube tu CV en PDF a docs/cv-leslie-redlich.pdf y descomenta
+&nbsp;
+<a href="docs/cv-leslie-redlich.pdf">
+  <img src="https://img.shields.io/badge/CV-Descargar-6366F1?style=for-the-badge&logo=readdotcv&logoColor=white" alt="Descargar CV" />
+</a>
+-->
 
-<div align="center">
-<sub>Chile · Disponible para trabajo remoto</sub>
+<br /><br />
+
+<img src="https://img.shields.io/badge/Ubicación-Chile-0EA5E9?style=flat-square" alt="Chile" />
+<img src="https://img.shields.io/badge/Modalidad-Remoto_o_híbrido-10B981?style=flat-square" alt="Remoto o híbrido" />
+<img src="https://img.shields.io/badge/Idiomas-Español_·_Inglés_técnico-8B5CF6?style=flat-square" alt="Idiomas" />
+
+<br /><br />
+
+<sub>Gracias por pasar por aquí ✦</sub>
+
 </div>
