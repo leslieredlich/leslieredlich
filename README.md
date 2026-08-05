@@ -20,9 +20,11 @@
 
 ## Sobre mí
 
-Desarrolladora Full Stack con experiencia real construyendo software que hoy está en producción para clientes en Chile. Vengo del mundo PHP —Laravel y WordPress— donde levanté desde temas a medida hasta una **plataforma SaaS multi-tenant** completa, y actualmente estoy consolidando mi stack en **JavaScript** a través de un Bootcamp Full Stack.
+Desarrolladora Full Stack con experiencia real construyendo software que hoy están en producción para clientes en Chile. Vengo del mundo PHP —Laravel y WordPress— donde levanté desde temas a medida hasta una **plataforma SaaS multi-tenant** completa, y actualmente estoy consolidando mi stack en **JavaScript** a través de un Bootcamp Full Stack.
 
-Esa combinación es lo que me define: no llego a la arquitectura desde la teoría, sino desde haber tenido que resolver multi-tenancy, pasarelas de pago, control de inventario y gestión de permisos con clientes reales esperando del otro lado.
+Esa combinación es lo que me define: no llego a la arquitectura desde la teoría,
+sino desde haber tenido que resolverla — multi-tenancy, pasarelas de pago,
+control de inventario y sistemas de roles y permisos.
 
 - Construyo **producto propio**, no solo encargos: mi proyecto principal es un SaaS de gestión para talleres mecánicos.
 - Me interesa el **backend y los datos**: transacciones, integridad, modelado relacional.
@@ -105,7 +107,6 @@ Esa combinación es lo que me define: no llego a la arquitectura desde la teorí
 
 > Sistema integral para automatizar los procesos de una corredora de propiedades: publicación, captación de leads y seguimiento comercial, con panel administrativo y roles diferenciados.
 
-<!-- PENDIENTE: guarda la captura en docs/gestion-inmobiliaria.png y descomenta el bloque de abajo -->
 <div align="center">
   <a href="docs/gestion-inmobiliaria.png">
     <img src="docs/gestion-inmobiliaria.png" alt="Sistema de Gestión Inmobiliaria" width="760" />
@@ -131,7 +132,6 @@ Esa combinación es lo que me define: no llego a la arquitectura desde la teorí
 
 > Tema WordPress desarrollado desde cero para corredoras de propiedades, optimizado para el mercado de la **Cuarta Región de Chile**. No es una plantilla adaptada: los Custom Post Types y el buscador están diseñados para el rubro.
 
-<!-- PENDIENTE: guarda la captura en docs/propiedades.png y descomenta el bloque de abajo -->
 <div align="center">
   <a href="docs/propiedades.png">
     <img src="docs/propiedades.png" alt="Tema WordPress Propiedades" width="760" />
