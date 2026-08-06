@@ -228,6 +228,7 @@ Mi base principal ha sido el **ecosistema PHP**, tecnología que sigo aplicando 
 
 | Proyecto | Descripción | Stack | Enlaces |
 |---|---|---|---|
+| **Intranet Promecánica** | Panel de administración central del SaaS Promecánica: alta y gestión de tenants con bases de datos independientes, usuarios con roles y permisos granulares, suscripciones, leads comerciales y reportes | Laravel · PHP · Blade · MySQL | Privado |
 | **Registro de Mascotas** | API REST con arquitectura por capas para registrar, buscar y eliminar mascotas por nombre o RUT, con validación de datos y persistencia en JSON | Node.js · Express · JavaScript | [Código](https://github.com/leslieredlich/Registro-Mascotas) |
 | **Belleza** | E-commerce para la venta de productos de belleza | TypeScript · React | [Código](https://github.com/leslieredlich/belleza) |
 | **Blog ProMecánica** | Blog corporativo con tema propio, newsletter vía Mailchimp y SEO con schema.org | WordPress · PHP | Privado |
