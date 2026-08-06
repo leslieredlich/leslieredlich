@@ -221,8 +221,6 @@ Mi base principal ha sido el **ecosistema PHP**, tecnología que sigo aplicando 
 
 **Stack:** Next.js 15 · TypeScript · Tailwind CSS · Formspree
 
-<!-- REEMPLAZAR: URL de la demo en vivo -->
-<!-- [**Ver demo**](#)--> · Código privado — disponible bajo solicitud
 
 ---
 
