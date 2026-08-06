@@ -153,7 +153,8 @@ Mi base principal ha sido el **ecosistema PHP**, tecnología que sigo aplicando 
 **Stack:** WordPress · PHP · JavaScript · CSS3
 
 <!-- REEMPLAZAR: URL de la demo en vivo -->
-<!-- [**Ver demo**](#)--> · [**Ver código**](https://github.com/leslieredlich/propiedades)
+<!-- [**Ver demo**](#)-->
+[**Ver código**](https://github.com/leslieredlich/propiedades)
 
 ---
 
@@ -177,7 +178,8 @@ Mi base principal ha sido el **ecosistema PHP**, tecnología que sigo aplicando 
 **Stack:** Node.js · Express · PostgreSQL · pg / pg-cursor · JavaScript
 
 <!-- REEMPLAZAR: URL de la demo en vivo -->
-<!-- [**Ver demo**](#)--> · [**Ver código**](https://github.com/leslieredlich/evaluacion-final-modulo-7)
+<!-- [**Ver demo**](#)-->
+[**Ver código**](https://github.com/leslieredlich/evaluacion-final-modulo-7)
 
 ---
 
@@ -199,7 +201,8 @@ Mi base principal ha sido el **ecosistema PHP**, tecnología que sigo aplicando 
 **Stack:** Next.js 15 · React 19 · TypeScript · Tailwind CSS
 
 <!-- REEMPLAZAR: URL de la demo en vivo -->
-<!-- [**Ver demo**](#)--> · [**Ver código**](https://github.com/leslieredlich/devstudio)
+<!-- [**Ver demo**](#)-->
+[**Ver código**](https://github.com/leslieredlich/devstudio)
 
 ---
 
