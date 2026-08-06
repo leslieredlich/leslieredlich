@@ -259,7 +259,6 @@ Mi base principal ha sido el **ecosistema PHP**, tecnología que sigo aplicando 
 <br /><br />
 
 <img src="https://img.shields.io/badge/Ubicación-Chile-0EA5E9?style=flat-square" alt="Chile" />
-<img src="https://img.shields.io/badge/Modalidad-Remoto_o_híbrido-10B981?style=flat-square" alt="Remoto o híbrido" />
 <img src="https://img.shields.io/badge/Idiomas-Español_·_Inglés_técnico-8B5CF6?style=flat-square" alt="Idiomas" />
 
 <br /><br />
