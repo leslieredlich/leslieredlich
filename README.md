@@ -181,15 +181,58 @@ Mi base principal ha sido el **ecosistema PHP**, tecnología que sigo aplicando 
 
 ---
 
+### DevKreativo — Agencia de Desarrollo Web
+
+> Sitio corporativo de agencia de desarrollo web y marketing digital, construido con componentes modulares reutilizables e integración de Google Maps.
+
+<div align="center">
+  <a href="docs/devkreativo.jpg">
+    <img src="docs/devkreativo.jpg" alt="Portada del sitio de DevKreativo" width="760" />
+  </a>
+</div>
+
+**Funcionalidades clave**
+- Arquitectura de componentes reutilizables para escalar el sitio sin duplicar código
+- Diseño responsive con secciones orientadas a conversión
+- Integración de Google Maps y formulario de contacto
+
+**Stack:** Next.js 15 · React 19 · TypeScript · Tailwind CSS
+
+<!-- REEMPLAZAR: URL de la demo en vivo -->
+<!-- [**Ver demo**](#)--> · [**Ver código**](https://github.com/leslieredlich/devstudio)
+
+---
+
+### A&R Plus — Taller Mecánico
+
+> Sitio corporativo para un taller mecánico especialista en Mercedes Benz: presenta los servicios, muestra los trabajos realizados y convierte visitas en contactos directos por WhatsApp.
+
+<div align="center">
+  <a href="docs/ayrplus.jpg">
+    <img src="docs/ayrplus.jpg" alt="Portada del sitio de A&R Plus" width="760" />
+  </a>
+</div>
+
+**Funcionalidades clave**
+- Galería de trabajos realizados
+- Formulario de presupuesto integrado con Formspree
+- Contacto directo por WhatsApp y ubicación en Google Maps
+- Diseño mobile-first optimizado para producción
+
+**Stack:** Next.js 15 · TypeScript · Tailwind CSS · Formspree
+
+<!-- REEMPLAZAR: URL de la demo en vivo -->
+<!-- [**Ver demo**](#)--> · Código privado — disponible bajo solicitud
+
+---
+
 ### Otros Proyectos
 
 | Proyecto | Descripción | Stack | Enlaces |
 |---|---|---|---|
-| **DevKreativo** | Sitio corporativo de agencia de desarrollo web y marketing digital, con componentes modulares reutilizables e integración de Google Maps | Next.js 15 · React 19 · TypeScript · Tailwind | [Código](https://github.com/leslieredlich/devstudio) |
 | **Registro de Mascotas** | API REST con arquitectura por capas para registrar, buscar y eliminar mascotas por nombre o RUT, con validación de datos y persistencia en JSON | Node.js · Express · JavaScript | [Código](https://github.com/leslieredlich/Registro-Mascotas) |
 | **Belleza** | E-commerce para la venta de productos de belleza | TypeScript · React | [Código](https://github.com/leslieredlich/belleza) |
-| **A&R Plus** | Sitio corporativo para taller mecánico: galería de trabajos, formulario de contacto e integración con WhatsApp | Next.js 15 · TypeScript · Tailwind |
-| **Blog ProMecánica** | Blog corporativo con tema propio, newsletter vía Mailchimp y SEO con schema.org | WordPress · PHP |
+| **Blog ProMecánica** | Blog corporativo con tema propio, newsletter vía Mailchimp y SEO con schema.org | WordPress · PHP | Privado |
 
 ---
 
