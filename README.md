@@ -240,13 +240,6 @@ Mi base principal ha sido el **ecosistema PHP**, tecnología que sigo aplicando 
 
 <div align="center">
 
-**¿Trabajamos juntos?**
-
-Estoy abierta a oportunidades como desarrolladora Full Stack y a colaborar en proyectos.<br />
-Si te interesa mi trabajo o quieres conversar sobre una idea, escríbeme — respondo siempre.
-
-<br />
-
 <a href="https://www.linkedin.com/in/leslieredlich/">
   <img src="https://img.shields.io/badge/LinkedIn-Conectemos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
@@ -262,13 +255,6 @@ Si te interesa mi trabajo o quieres conversar sobre una idea, escríbeme — res
 <a href="https://github.com/leslieredlich?tab=repositories">
   <img src="https://img.shields.io/badge/Repositorios-Ver_todos-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositorios" />
 </a>
-
-<!-- OPCIONAL: sube tu CV en PDF a docs/cv-leslie-redlich.pdf y descomenta
-&nbsp;
-<a href="docs/cv-leslie-redlich.pdf">
-  <img src="https://img.shields.io/badge/CV-Descargar-6366F1?style=for-the-badge&logo=readdotcv&logoColor=white" alt="Descargar CV" />
-</a>
--->
 
 <br /><br />
 
